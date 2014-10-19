@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\JB-Toshiba\AndroidStudioProjects\Parallax-Scroll\ParallaxScroll\src\main\assets" />
+        <source path="C:\Users\JB-Toshiba\AndroidStudioProjects\Parallax-Scroll\ParallaxScroll\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\JB-Toshiba\AndroidStudioProjects\Parallax-Scroll\ParallaxScroll\src\debug\assets" />
+    </dataSet>
+
+</merger>
